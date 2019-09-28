@@ -19,6 +19,7 @@ body, html {
     color: rgba(255,255,255,1);
 }
 
+.navbar-toggler { color: rgba(255,255,255,1); }
 .site-header .navbar-right {
     text-align: right;
     justify-content: flex-end;
